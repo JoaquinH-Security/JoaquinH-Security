@@ -32,10 +32,6 @@ Cybersecurity Student | Continuous Learning
 
 ## 📊 GitHub Activity
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Joaqu
-inH-Security&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=JoaquinH-Security&show_icons=true&theme=tokyonight" />
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?usern
-ame=JoaquinH-Security&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinH-Security&layout=compact&theme=tokyonight" />
