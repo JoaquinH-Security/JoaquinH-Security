@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Joaquin 👋
 
-<!--
-**JoaquinH-Security/JoaquinH-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on building hands-on experience in security tools, networking, and Linux systems.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying cybersecurity, IT infrastructure, and defensive security practices while documenting my progress through labs, notes, and a personal home lab environment.
+
+## 🛠 Tools I'm Learning
+
+• Nmap  
+• Wireshark  
+• Kali Linux  
+• Linux Command Line  
+• VirtualBox  
+• Security Monitoring Tools  
+
+## 🧪 Current Projects
+
+• Cybersecurity Labs  
+• Home Cyber Lab Environment  
+• Security Study Notes  
+
+## 🎯 Goals
+
+Build strong practical cybersecurity skills through continuous learning, hands-on labs, and real-world security tools.
+
+---
+
+Cybersecurity Student | Continuous Learning
