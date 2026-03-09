@@ -8,12 +8,12 @@ I am currently studying cybersecurity, IT infrastructure, and defensive security
 
 ## 🛠 Tools I'm Learning
 
-• Nmap  
-• Wireshark  
-• Kali Linux  
-• Linux Command Line  
-• VirtualBox  
-• Security Monitoring Tools  
+• Nmap  - Network Scanning
+• Wireshark  - Packet Analysis
+• Kali Linux  - Security Testing Environment
+• Linux CLI  - System Navigation & Administration
+• VirtualBox  - Lab Virtualization
+• Security Monitoring Tools  - Log & Traffic Analysis
 
 ## 🧪 Current Projects
 
